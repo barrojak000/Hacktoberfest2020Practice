@@ -9,17 +9,17 @@ int main() {
 	cin >> a;
 
 	if (a == 1) {
-		cout << "\nThis outocme is the \"if\" portion of the if-else.";
+		cout << "\nThis outocme is the \"if\" portion of the if-else code.";
 	}
 	else if (a == 2) {
-		cout << "\nThis outocme is the \"else if\" portion of the if-else.";
+		cout << "\nThis outocme is the \"else if\" portion of the if-else code.";
 	}
 	else if (a == 3) {
-		cout << "\nThis outocme is the \"else if\" portion of the if-else.";
+		cout << "\nThis outocme is the \"else if\" portion of the if-else code.";
 	}
 	else {
 		cout << "\nInvalid input.";
-		cout << "\nThis outocme is the \"else\" portion of the if-else.";
+		cout << "\nThis outocme is the \"else\" portion of the if-else code.";
 	}
 
 	cout << endl;
