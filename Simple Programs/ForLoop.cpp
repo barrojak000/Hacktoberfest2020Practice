@@ -3,8 +3,7 @@
 using namespace std;
 
 int main() {
-	int i;
-	int x;
+	int i, x;
 
 	cout << "Enter how many times you would like the loop to run: ";
 	cin >> x;
