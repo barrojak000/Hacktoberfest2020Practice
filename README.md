@@ -1,10 +1,10 @@
-# Hacktoberfest2020Practice
+## Hacktoberfest2020Practice
 
 - I found these basic practice programs in June of 2021. I wanted to practice my skills
   and start a profile on Github by completing these programs.
 
 
-## Simple Programs
+### Simple Programs
 
 1. Write a program to print "Hello World".
 
@@ -29,9 +29,11 @@
 11. Write a program to insert element to array
 
 
-## Number Systems
+### Number Systems
 
 1. Write a program to convert Binary to Decimal
+
+###
 
 2. Write a program to convert Decimal to Binary
 
@@ -51,6 +53,9 @@
 
 4. Write a program to implement Quick Sort
 
-## A Simple Challenge
+### A Simple Challenge
 
 1. Write a program to make a simple calculator
+
+#### Source
+ - [Hacktoberfest](https://github.com/bigyanic/Hacktoberfest-Simple-Practice-Programmes)
