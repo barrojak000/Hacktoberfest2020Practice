@@ -51,6 +51,6 @@
 
 4. Write a program to implement Quick Sort
 
-## A Simple Challenge For You
+## A Simple Challenge
 
 1. Write a program to make a simple calculator
