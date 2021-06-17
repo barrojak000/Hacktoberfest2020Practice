@@ -33,8 +33,6 @@
 
 1. Write a program to convert Binary to Decimal
 
-###
-
 2. Write a program to convert Decimal to Binary
 
 3. Write a program to convert Decimal to Octal
