@@ -31,8 +31,6 @@
 
 ## Number Systems
 
-> #### We have some programs related to Number Systems, Try this out.
-
 1. Write a program to convert Binary to Decimal
 
 2. Write a program to convert Decimal to Binary
